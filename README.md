@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Springboot, CI/CD**
 
-- 👨‍💻 All of my projects are available at [nostew.cme](https://nostew.me)
+- 👨‍💻 All of my projects are available at [nostew.me](https://nostew.me)
 
 - 📫 How to reach me **njstewart22@icloud.com**
 
