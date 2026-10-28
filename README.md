@@ -5,6 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [nostew.me](https://nostew.me)
 
-- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/nostew/).
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/nostew/)
 
 - 📫 How to reach me **njstewart22@icloud.com**
