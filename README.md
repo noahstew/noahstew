@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Noah</h1>
-<h3 align="center">Computer Science Major at University of British Columbia</h3>
+<h3 align="center">Software Engineer available in May 2027 for work in Canada 🇨🇦 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahstew&label=Profile%20views&color=0e75b6&style=flat" alt="noahstew" /> </p>
 
